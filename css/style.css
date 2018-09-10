@@ -386,7 +386,7 @@ p {
 
 /* ========= Purchase Now ============= */
 .purchase-now {
-    background-image:url("../images/123.jpg");
+    background: #303030;
     padding-top: 100px;
     padding-bottom: 100px;
 }
