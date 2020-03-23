@@ -1,2 +1,2 @@
 # alecod.github.io
-Site pessoal para freelas
+Site pessoal desenvolvido com Bootstrap 3/Jquery
